@@ -1,0 +1,7 @@
+E:\KU\5 HPC\Refactoring\EventBenchmark\Dapr\obj\Debug\net7.0\Dapr.csproj.AssemblyReference.cache
+E:\KU\5 HPC\Refactoring\EventBenchmark\Dapr\obj\Debug\net7.0\Dapr.GeneratedMSBuildEditorConfig.editorconfig
+E:\KU\5 HPC\Refactoring\EventBenchmark\Dapr\obj\Debug\net7.0\Dapr.AssemblyInfoInputs.cache
+E:\KU\5 HPC\Refactoring\EventBenchmark\Dapr\obj\Debug\net7.0\Dapr.AssemblyInfo.cs
+E:\KU\5 HPC\Refactoring\EventBenchmark\Dapr\obj\Debug\net7.0\Dapr.csproj.CoreCompileInputs.cache
+E:\KU\5 HPC\Refactoring\EventBenchmark\Dapr\obj\Debug\net7.0\Dapr.MvcApplicationPartsAssemblyInfo.cs
+E:\KU\5 HPC\Refactoring\EventBenchmark\Dapr\obj\Debug\net7.0\Dapr.MvcApplicationPartsAssemblyInfo.cache
