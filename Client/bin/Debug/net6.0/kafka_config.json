@@ -1,0 +1,17 @@
+{
+    "kafkaEnabled": true, 
+    "kafkaService" : "localhost:9092",    
+    "defaultStreamProvider": "SMSProvider",
+    "ingestTopics": {
+        "initCustomer": "customer",
+        "initSeller": "seller",
+        "addStockItems": "stock",
+        "addProducts": "product"
+    },
+    "transactionTopics": {
+        "sellers": "http://127.0.0.1:8090",
+        "customers": "http://127.0.0.1:8090",
+        "stock_items": "http://127.0.0.1:8090",
+        "products": "http://127.0.0.1:8090"
+    }
+}

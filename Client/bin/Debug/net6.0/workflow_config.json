@@ -1,0 +1,10 @@
+﻿{
+  "healthCheck": false,
+  "dataLoad": true,
+  "ingestion": true,
+  "transactionSubmission": true,
+  "collection": true,
+  "collectionUrl": "http://localhost:9090/api/v1",
+  "cleanup": false,
+  "cleanupEndpoint":  "/cleanup"
+}

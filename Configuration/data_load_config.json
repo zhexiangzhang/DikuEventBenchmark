@@ -1,0 +1,7 @@
+﻿{
+    "connectionString": "DataSource=:memory:",
+    "numCustomers": 10, 
+    "numProducts": 50,
+    "avgNumProdPerSeller": 5,
+    "createSchema": true
+}

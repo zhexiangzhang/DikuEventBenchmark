@@ -1,0 +1,17 @@
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\bin\Debug\net6.0\GrainInterfaces.deps.json
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\bin\Debug\net6.0\GrainInterfaces.dll
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\bin\Debug\net6.0\GrainInterfaces.pdb
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\bin\Debug\net6.0\Common.dll
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\bin\Debug\net6.0\Common.pdb
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.csproj.AssemblyReference.cache
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.orleans.g.args.txt
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.orleans.g.cs
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.AssemblyInfoInputs.cache
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.AssemblyInfo.cs
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.csproj.CoreCompileInputs.cache
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.csproj.CopyComplete
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.dll
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\refint\GrainInterfaces.dll
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\GrainInterfaces.pdb
+E:\KU\4 Pro\benchmarkDriver\EventBenchmark\GrainInterfaces\obj\Debug\net6.0\ref\GrainInterfaces.dll

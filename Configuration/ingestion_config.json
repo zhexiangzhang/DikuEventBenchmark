@@ -1,0 +1,15 @@
+﻿{
+    "connectionString" : "DataSource=:memory:",
+    "distributionStrategy": "SINGLE_WORKER", //optional
+    "numberCpus": 2, // optional
+    "mapTableToUrl": {
+        "sellers": "http://127.0.0.1:8090",
+        "customers": "http://127.0.0.1:8090",
+        "stock_items": "http://127.0.0.1:8090",
+        "products": "http://127.0.0.1:8090"
+    },
+    "productPartion": 10, // only for statefun
+    "sellerPartion": 1000000, // must 1:1 !!
+    "customerPartion": 1000000, // must 1:1 !!
+    "stockPartion": 10
+}
