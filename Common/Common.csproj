@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="YCSB\" />
+    <None Remove="Configuration\" />
+    <None Remove="Streaming\" />
+    <None Remove="Workload\YCSB\" />
+    <None Remove="Scenario\Customer\" />
+    <None Remove="Serdes\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="Scenario\Seller\" />
+    <None Remove="Infra\" />
+    <None Remove="Entity\CartStatus.config" />
+    <None Remove="Entities\" />
+    <None Remove="Http\" />
+    <None Remove="Ingestion\" />
+    <None Remove="Ingestion\DTO\" />
+    <None Remove="Workload\Metrics\" />
+    <None Remove="Workload\Delivery\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Streaming\" />
+    <Folder Include="Distribution\YCSB\" />
+    <Folder Include="Workload\Customer\" />
+    <Folder Include="Serdes\" />
+    <Folder Include="Workload\Seller\" />
+    <Folder Include="Infra\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Http\" />
+    <Folder Include="Ingestion\" />
+    <Folder Include="Ingestion\DTO\" />
+    <Folder Include="Workload\Metrics\" />
+    <Folder Include="Workload\Delivery\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="StackExchange.Redis" Version="2.6.116" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="6.0.0" />
+  </ItemGroup>
+</Project>
